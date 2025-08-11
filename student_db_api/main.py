@@ -1,6 +1,6 @@
 from fastapi import FastAPI, HTTPException, Query
-from pydantic import BaseModel
-from typing import List
+from pydantic import BaseModel, Field
+from typing import Dict, List
 import sqlite3, json
 import pandas as pd
 from fastapi.responses import FileResponse
@@ -11,7 +11,16 @@ app = FastAPI()
 class StudentModel(BaseModel):
     name: str
     roll_number: str
-    marks: dict
+    marks: Dict[str, str] = Field(
+        ..., 
+        example={
+            "subject_name": "enter marks"
+            #add as many as subjects
+        },
+        description="A dictionary of subject names and their corresponding marks. You can add as many subject-mark pairs as needed."
+    )
+
+
 
 # Database Helper Functions
 def get_db_connection():
