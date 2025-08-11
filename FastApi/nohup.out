@@ -1,0 +1,354 @@
+INFO:     Started server process [66903]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+INFO:     127.0.0.1:40418 - "GET /books HTTP/1.1" 200 OK
+ERROR:    Error loading ASGI app. Could not import module "fastapi_app".
+ERROR:    Error loading ASGI app. Could not import module "fastapi_app".
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [66903]
+ERROR:    Error loading ASGI app. Could not import module "fastapi_app".
+INFO:     Started server process [75928]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     Started server process [76714]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     127.0.0.1:54812 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:44862 - "GET /books HTTP/1.1" 200 OK
+INFO:     Started server process [77199]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+ERROR:    [Errno 98] error while attempting to bind on address ('0.0.0.0', 8000): address already in use
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     127.0.0.1:36194 - "GET /books HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34114 - "GET / HTTP/1.1" 404 Not Found
+INFO:     136.226.244.202:40954 - "GET /books HTTP/1.1" 200 OK
+INFO:     136.226.244.202:40954 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     17.233.88.96:61040 - "GET /books HTTP/1.1" 200 OK
+INFO:     17.233.88.96:61040 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     17.233.88.96:61141 - "GET /books HTTP/1.1" 200 OK
+INFO:     103.214.61.189:63074 - "GET /books HTTP/1.1" 200 OK
+INFO:     103.214.61.189:63074 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     205.169.39.16:45544 - "GET /books HTTP/1.1" 200 OK
+INFO:     205.169.39.16:58115 - "GET /books HTTP/1.1" 200 OK
+INFO:     103.203.57.20:46214 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     35.226.27.221:39062 - "GET / HTTP/1.1" 404 Not Found
+INFO:     180.149.126.12:62877 - "GET /c/ HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     164.52.24.182:36679 - "GET / HTTP/1.1" 404 Not Found
+INFO:     164.52.24.182:36679 - "GET / HTTP/1.1" 404 Not Found
+INFO:     164.52.24.182:36679 - "GET / HTTP/1.1" 404 Not Found
+INFO:     164.52.24.182:36679 - "GET /v1/models HTTP/1.1" 404 Not Found
+INFO:     164.52.24.182:36679 - "GET /v1/models HTTP/1.1" 404 Not Found
+INFO:     164.52.24.182:36679 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     164.52.24.182:36679 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     139.59.44.166:53624 - "GET / HTTP/1.1" 404 Not Found
+INFO:     139.59.44.166:53638 - "GET /login HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     3.132.23.201:43018 - "GET / HTTP/1.1" 404 Not Found
+INFO:     3.132.23.201:42996 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     143.198.179.104:39906 - "GET / HTTP/1.1" 404 Not Found
+INFO:     199.45.154.127:54070 - "GET / HTTP/1.1" 404 Not Found
+INFO:     199.45.154.127:53060 - "GET / HTTP/1.1" 404 Not Found
+INFO:     199.45.154.127:53068 - "PRI %2A HTTP/2.0" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     199.45.154.127:53076 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     199.45.154.127:53090 - "PRI %2A HTTP/2.0" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     199.45.154.127:34782 - "GET /login HTTP/1.1" 404 Not Found
+INFO:     167.94.138.184:43288 - "GET / HTTP/1.1" 404 Not Found
+INFO:     167.94.138.184:37464 - "GET / HTTP/1.1" 404 Not Found
+INFO:     167.94.138.184:37508 - "PRI %2A HTTP/2.0" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     167.94.138.184:36562 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     167.94.138.184:34988 - "PRI %2A HTTP/2.0" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     167.94.138.184:51566 - "GET /login HTTP/1.1" 404 Not Found
+INFO:     135.237.125.221:56178 - "GET / HTTP/1.1" 404 Not Found
+INFO:     134.122.106.248:34984 - "GET /aaa9 HTTP/1.1" 404 Not Found
+INFO:     134.122.106.248:34994 - "GET /aab8 HTTP/1.1" 404 Not Found
+INFO:     134.122.106.248:35008 - "GET / HTTP/1.1" 404 Not Found
+INFO:     45.156.129.66:43941 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     165.232.97.49:44648 - "GET / HTTP/1.1" 404 Not Found
+INFO:     165.232.97.49:44658 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     65.49.1.66:22890 - "GET / HTTP/1.1" 404 Not Found
+INFO:     65.49.1.74:31263 - "GET http%3A//api.ipify.org/?format=json HTTP/1.1" 404 Not Found
+INFO:     65.49.1.71:13707 - "CONNECT www.shadowserver.org%3A443 HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     147.182.156.159:49196 - "GET / HTTP/1.1" 404 Not Found
+INFO:     147.182.156.159:49198 - "GET /login HTTP/1.1" 404 Not Found
+INFO:     34.116.177.11:33359 - "GET /books HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+INFO:     206.168.34.76:47316 - "GET / HTTP/1.1" 404 Not Found
+INFO:     206.168.34.76:38732 - "PRI %2A HTTP/2.0" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     206.168.34.76:40860 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     206.168.34.76:40878 - "PRI %2A HTTP/2.0" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     206.168.34.76:32914 - "GET /login HTTP/1.1" 404 Not Found
+INFO:     3.132.23.201:56454 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     3.132.23.201:44806 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     205.210.31.135:62306 - "GET / HTTP/1.1" 404 Not Found
+INFO:     148.153.56.58:40490 - "GET /pQe6 HTTP/1.1" 404 Not Found
+INFO:     148.153.56.58:40502 - "GET /MFuU HTTP/1.1" 404 Not Found
+INFO:     148.153.56.58:40512 - "GET /aab8 HTTP/1.1" 404 Not Found
+INFO:     148.153.56.58:40524 - "GET /jquery-3.3.1.slim.min.js HTTP/1.1" 404 Not Found
+INFO:     148.153.56.58:40534 - "GET /aab9 HTTP/1.1" 404 Not Found
+INFO:     148.153.56.58:40536 - "GET /jquery-3.3.2.slim.min.js HTTP/1.1" 404 Not Found
+INFO:     136.226.252.209:20349 - "GET /books HTTP/1.1" 200 OK
+INFO:     205.169.39.38:6790 - "GET / HTTP/1.1" 404 Not Found
+INFO:     205.169.39.24:26493 - "GET /books HTTP/1.1" 200 OK
+INFO:     205.169.39.24:17103 - "GET /books HTTP/1.1" 200 OK
+INFO:     136.226.252.209:46334 - "GET /books/docs HTTP/1.1" 200 OK
+INFO:     136.226.252.209:47997 - "GET /books HTTP/1.1" 200 OK
+INFO:     118.43.190.32:62423 - "GET / HTTP/1.0" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     138.197.167.152:53760 - "GET / HTTP/1.1" 404 Not Found
+INFO:     138.197.167.152:53762 - "GET /login HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     152.32.226.8:53284 - "GET / HTTP/1.1" 404 Not Found
+INFO:     152.32.226.8:53426 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     152.32.226.8:53546 - "GET /robots.txt HTTP/1.1" 404 Not Found
+INFO:     152.32.226.8:53548 - "GET /sitemap.xml HTTP/1.1" 404 Not Found
+INFO:     3.132.23.201:38596 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     3.132.23.201:55658 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     167.94.138.195:55230 - "GET / HTTP/1.1" 404 Not Found
+INFO:     167.94.138.195:60854 - "PRI %2A HTTP/2.0" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     167.94.138.195:35702 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     167.94.138.195:35710 - "PRI %2A HTTP/2.0" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     167.94.138.195:59140 - "GET /.well-known/security.txt HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     3.132.23.201:45566 - "GET / HTTP/1.1" 404 Not Found
+INFO:     3.132.23.201:37184 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     3.137.73.221:37442 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     3.137.73.221:33652 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     3.130.96.91:37116 - "GET / HTTP/1.1" 404 Not Found
+INFO:     3.130.96.91:38718 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     209.38.29.218:54370 - "GET / HTTP/1.1" 404 Not Found
+INFO:     209.38.29.218:54378 - "GET /login HTTP/1.1" 404 Not Found
+INFO:     205.210.31.108:64764 - "GET / HTTP/1.1" 404 Not Found
+INFO:     74.82.47.2:8668 - "GET / HTTP/1.1" 404 Not Found
+INFO:     74.82.47.42:2405 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     74.82.47.50:44719 - "GET http%3A//api.ipify.org/?format=json HTTP/1.1" 404 Not Found
+INFO:     74.82.47.2:62665 - "CONNECT www.shadowserver.org%3A443 HTTP/1.1" 404 Not Found
+INFO:     167.103.88.85:13629 - "GET /books HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     205.210.31.43:62050 - "GET / HTTP/1.1" 404 Not Found
+INFO:     206.168.34.121:43124 - "GET / HTTP/1.1" 404 Not Found
+INFO:     206.168.34.121:43142 - "PRI %2A HTTP/2.0" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     206.168.34.121:35218 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     206.168.34.121:45152 - "PRI %2A HTTP/2.0" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     103.203.57.20:53132 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     206.168.34.121:47820 - "GET /robots.txt HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     3.134.148.59:35782 - "GET / HTTP/1.1" 404 Not Found
+INFO:     3.134.148.59:56614 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     18.97.26.111:55792 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     45.82.78.107:34446 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     142.93.149.239:56440 - "GET / HTTP/1.1" 404 Not Found
+INFO:     142.93.149.239:56446 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     116.172.248.124:29734 - "GET / HTTP/1.1" 404 Not Found
+INFO:     117.13.174.57:10765 - "GET / HTTP/1.1" 404 Not Found
+INFO:     198.235.24.217:61712 - "GET / HTTP/1.1" 404 Not Found
+INFO:     167.94.138.121:54486 - "GET / HTTP/1.1" 404 Not Found
+INFO:     167.94.138.121:54502 - "PRI %2A HTTP/2.0" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     167.94.138.121:48178 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     167.94.138.121:48188 - "PRI %2A HTTP/2.0" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     167.94.138.121:45130 - "GET /sitemap.xml HTTP/1.1" 404 Not Found
+INFO:     3.130.96.91:38594 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     3.130.96.91:58084 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     161.35.130.183:36516 - "GET / HTTP/1.1" 404 Not Found
+INFO:     161.35.130.183:36532 - "GET /login HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     47.236.250.60:35862 - "GET / HTTP/1.1" 404 Not Found
+INFO:     47.236.250.60:35866 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     34.116.150.156:33787 - "GET /books HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+INFO:     195.184.76.39:35305 - "GET / HTTP/1.1" 404 Not Found
+INFO:     195.184.76.116:36553 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     205.210.31.246:60350 - "GET / HTTP/1.1" 404 Not Found
+INFO:     142.93.145.22:33488 - "GET / HTTP/1.1" 404 Not Found
+INFO:     142.93.145.22:33502 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     167.94.138.39:34340 - "GET / HTTP/1.1" 404 Not Found
+INFO:     167.94.138.39:41142 - "PRI %2A HTTP/2.0" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     167.94.138.39:52148 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     167.94.138.39:52890 - "PRI %2A HTTP/2.0" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     167.94.138.39:34172 - "GET /login HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     64.227.161.71:33874 - "GET / HTTP/1.1" 404 Not Found
+INFO:     64.227.161.71:33884 - "GET /login HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     138.199.54.64:40076 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     138.199.54.64:22942 - "GET / HTTP/1.1" 404 Not Found
+INFO:     3.137.73.221:52592 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     3.137.73.221:50116 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     104.234.115.130:49168 - "GET / HTTP/1.1" 404 Not Found
+INFO:     104.234.115.130:34200 - "GET /manage/account/login HTTP/1.1" 404 Not Found
+INFO:     104.234.115.130:42562 - "GET /admin/index.html HTTP/1.1" 404 Not Found
+INFO:     104.234.115.130:42706 - "GET /index.html HTTP/1.1" 404 Not Found
+INFO:     104.234.115.130:43900 - "GET /%2BCSCOE%2B/logon.html HTTP/1.1" 404 Not Found
+INFO:     104.234.115.130:42870 - "GET /cgi-bin/login.cgi HTTP/1.1" 404 Not Found
+INFO:     104.234.115.130:38838 - "GET /login.htm HTTP/1.1" 404 Not Found
+INFO:     104.234.115.130:40994 - "GET /login.html HTTP/1.1" 404 Not Found
+INFO:     104.234.115.130:36868 - "GET /login.jsp HTTP/1.1" 404 Not Found
+INFO:     104.234.115.130:58854 - "GET /login HTTP/1.1" 404 Not Found
+INFO:     104.234.115.130:57168 - "GET /doc/index.html HTTP/1.1" 404 Not Found
+INFO:     104.234.115.130:41040 - "GET /remote/login HTTP/1.1" 404 Not Found
+INFO:     104.234.115.130:56438 - "GET //admin/login.asp HTTP/1.1" 404 Not Found
+INFO:     104.234.115.130:44420 - "GET /web/ HTTP/1.1" 404 Not Found
+INFO:     104.234.115.130:46478 - "GET //webpages/login.html HTTP/1.1" 404 Not Found
+INFO:     138.197.15.3:42508 - "GET /aaa9 HTTP/1.1" 404 Not Found
+INFO:     138.197.15.3:42518 - "GET /aab8 HTTP/1.1" 404 Not Found
+INFO:     138.197.15.3:42530 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     91.196.152.221:40851 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     3.131.215.38:60304 - "GET / HTTP/1.1" 404 Not Found
+INFO:     3.131.215.38:57752 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     162.142.125.218:39852 - "GET / HTTP/1.1" 404 Not Found
+INFO:     162.142.125.218:39868 - "PRI %2A HTTP/2.0" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     162.142.125.218:33014 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     162.142.125.218:33022 - "PRI %2A HTTP/2.0" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     162.142.125.218:54792 - "GET /.well-known/security.txt HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     146.190.119.189:35866 - "GET /aaa9 HTTP/1.1" 404 Not Found
+INFO:     146.190.119.189:35880 - "GET /aab8 HTTP/1.1" 404 Not Found
+INFO:     146.190.119.189:35894 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     107.170.5.138:43120 - "GET / HTTP/1.1" 404 Not Found
+INFO:     107.170.5.138:43132 - "GET /login HTTP/1.1" 404 Not Found
+INFO:     64.62.156.172:33496 - "GET / HTTP/1.1" 404 Not Found
+INFO:     64.62.156.179:65011 - "GET http%3A//api.ipify.org/?format=json HTTP/1.1" 404 Not Found
+INFO:     64.62.156.177:23563 - "CONNECT www.shadowserver.org%3A443 HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     3.134.148.59:49944 - "GET / HTTP/1.1" 404 Not Found
+INFO:     3.134.148.59:44918 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     167.94.138.35:52004 - "GET / HTTP/1.1" 404 Not Found
+INFO:     167.94.138.35:52008 - "PRI %2A HTTP/2.0" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     167.94.138.35:40202 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     167.94.138.35:40204 - "PRI %2A HTTP/2.0" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     167.94.138.35:52786 - "GET /.well-known/security.txt HTTP/1.1" 404 Not Found
+INFO:     64.227.99.138:56039 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     159.89.101.246:51846 - "GET / HTTP/1.1" 404 Not Found
+INFO:     159.89.101.246:51852 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     184.105.139.70:61088 - "GET / HTTP/1.1" 404 Not Found
+INFO:     184.105.139.126:54165 - "GET http%3A//api.ipify.org/?format=json HTTP/1.1" 404 Not Found
+INFO:     184.105.139.74:57837 - "CONNECT www.shadowserver.org%3A443 HTTP/1.1" 404 Not Found
+INFO:     66.175.211.65:42924 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     46.101.205.206:33148 - "GET / HTTP/1.1" 404 Not Found
+INFO:     46.101.205.206:33152 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     3.131.215.38:59636 - "GET / HTTP/1.1" 404 Not Found
+INFO:     3.131.215.38:40822 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     167.94.138.125:57944 - "GET / HTTP/1.1" 404 Not Found
+INFO:     167.94.138.125:57976 - "PRI %2A HTTP/2.0" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     167.94.138.125:56028 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     167.94.138.125:60414 - "PRI %2A HTTP/2.0" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     167.94.138.125:50580 - "GET /wiki HTTP/1.1" 404 Not Found
+INFO:     198.235.24.20:64354 - "GET / HTTP/1.1" 404 Not Found
